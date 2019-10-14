@@ -1,0 +1,13 @@
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\bin\Debug\netcoreapp2.0\WebApiWithOdata.deps.json
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\bin\Debug\netcoreapp2.0\WebApiWithOdata.runtimeconfig.json
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\bin\Debug\netcoreapp2.0\WebApiWithOdata.runtimeconfig.dev.json
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\bin\Debug\netcoreapp2.0\WebApiWithOdata.dll
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\obj\Debug\netcoreapp2.0\WebApiWithOdata.csprojResolveAssemblyReference.cache
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\obj\Debug\netcoreapp2.0\WebApiWithOdata.csproj.CoreCompileInputs.cache
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\obj\Debug\netcoreapp2.0\WebApiWithOdata.AssemblyInfoInputs.cache
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\obj\Debug\netcoreapp2.0\WebApiWithOdata.AssemblyInfo.cs
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\bin\Debug\netcoreapp2.0\WebApiWithOdata.pdb
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\bin\Debug\netcoreapp2.0\WebApiWithOdata.Data.dll
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\bin\Debug\netcoreapp2.0\WebApiWithOdata.Data.pdb
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\obj\Debug\netcoreapp2.0\WebApiWithOdata.dll
+D:\My Folder\Projects\WebApiWithOdata\WebApiWithOdata\obj\Debug\netcoreapp2.0\WebApiWithOdata.pdb
